@@ -13,7 +13,7 @@ class Stats {
 	init() {
 		defaults = UserDefaults(suiteName: "group.TZ5YSJH8XE.com.VictorPuga.Glance")
 		
-		createStatsFile()
+		// createStatsFile()
 		// let i = defaults?.integer(forKey: "testCount") ?? 0
 		// defaults?.setValue(i + 1, forKey: "testCount")
 		
